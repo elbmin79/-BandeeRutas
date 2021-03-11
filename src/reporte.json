@@ -1,5 +1,7 @@
 {
+    "id_q":1,
     "tipo": "Internet",
+    "desc": "El internet se desconecta cada cierto tiempo",
     "ciudad": "Mexicali",
     "colonia": "Montecarlo",
     "estado": "Finalizado",
