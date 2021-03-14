@@ -9,7 +9,7 @@
     },
     {
         "id": "2",
-        "tipo": "Teléfono",
+        "tipo": "Telefono",
         "desc": "Las llamadas se cortan",
         "fecha": "15/01/21",
         "ciudad": "Mexicali",
@@ -41,7 +41,7 @@
     },
     {
         "id": "6",
-        "tipo": "Teléfono",
+        "tipo": "Telefono",
         "desc": "No sirve la línea",
         "fecha": "07/03/21",
         "ciudad": "Ensenada",
